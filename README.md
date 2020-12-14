@@ -1,7 +1,6 @@
 ## AES Encryption with Padding in C
 
-In using this program. First understand the AES 256 Bit encryption process. Then in trying this program at least using Visual Studio 2012
-
+AES 256 Bit encryption process modified with more padding in C
 # License
 
     Copyright 2017 Reinaldo Riant
